@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 int main() {
-    char word[] = "coding"; 
+    char word[] = "love"; 
     char guessedWord[20];
     int wordLength = strlen(word);
     int attempts = 3;
